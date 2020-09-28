@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arthur Oliveira",
+      "email": "aoliveira@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@gmail.com"
+    },
+    {
+      "name": "Marcos Silva",
+      "email": "marcos@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Manuel Silva",
+      "email": "manuel@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Michel",
+      "email": "michel@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Maria Silva de Abreu",
+      "email": "maria@gmail.com",
+      "id": 7
+    }
+  ]
+}
